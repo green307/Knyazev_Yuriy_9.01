@@ -19,9 +19,13 @@
 ### Дополнительные материалы, которые могут быть полезны для выполнения задания
 
 1. [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637#Code)
-
----
+https://github.com/green307/Knyazev_Yuriy_9.01/blob/main/img/память.jpg
+https://github.com/green307/Knyazev_Yuriy_9.01/blob/main/img/диск.jpg
+https://github.com/green307/Knyazev_Yuriy_9.01/blob/main/img/цпу.jpg
 
 ### Задание 1
 Создайте виртуальную машину в Yandex Cloud Compute Cloud и с помощью Yandex Monitoring создайте дашборд, на котором будет видно загрузку процессора, количество занятой оперативной памяти и свободное место на жёстком диске.
 
+![alt text](https://github.com/green307/Knyazev_Yuriy_9.01/blob/main/img/память.jpg)
+![alt text](https://github.com/green307/Knyazev_Yuriy_9.01/blob/main/img/диск.jpg)
+![alt text](https://github.com/green307/Knyazev_Yuriy_9.01/blob/main/img/цпу.jpg)
